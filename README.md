@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Aditya
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Hey%2C+I'm+Aditya+%F0%9F%91%8B" alt="Hey, I'm Aditya" />
+</a>
 
 ### Welcome to my Product Lab
 
